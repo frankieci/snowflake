@@ -1,3 +1,3 @@
-module github.com/snowflake/snowflake
+module github.com/snowflake/sf
 
 go 1.16
